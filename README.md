@@ -1,0 +1,2 @@
+# Little Swag.
+A little swag never hurt anybody. Other than the swagger.io project, which is primarily focussed on building API related documentation, little swag provides an easy format for communicating data structures. It uses a combination between Markdown, JS and CSS to create interactive content.
